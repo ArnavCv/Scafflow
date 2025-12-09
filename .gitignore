@@ -1,0 +1,14 @@
+node_modules
+.next
+.env*
+*.log
+.turbo
+dist
+coverage
+build
+out
+tsconfig.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

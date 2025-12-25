@@ -1,5 +1,5 @@
 # SCAFFLOW
-#### Video Demo:
+#### Video Demo: https://youtu.be/UVH4lAB43uc
 #### Live site: https://scafflow-cmp.vercel.app/
 #### Description:
 I’m Arnav Chaturvedi, an Indian Computer Science Engineering sophomore, and CS50 was my gateway into this world back when I was a fresher. Scafflow is my attempt to make construction management feel less like wrestling spreadsheets and more like driving a dashboard. Everything lives in one Next.js App Router project: the UI, the API routes, and the Postgres access. Users own their projects and can create tasks, budgets, safety incidents, change orders, and progress draws. Admins can see everything but do not mutate data, which keeps demos safe and mirrors real oversight roles. I leaned into a single-language stack (JavaScript/TypeScript) and added an OOP-style service and repository layer so access checks and validation sit in one place instead of being sprinkled across handlers.
